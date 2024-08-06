@@ -16,7 +16,7 @@ total_cost = quantity * unit_cost
 # Check if the total cost exceeds 1000 to apply a discount
 if total_cost > 1000:
     discount = 0.10 * total_cost
-    total_cost -= discount
+    total_cost -= discount # total_cost=total_cost -discount
     print(f"A discount of 10% has been applied. The total cost after discount is: {total_cost}")
 else:
     print(f"The total cost is: {total_cost}")
