@@ -1,0 +1,17 @@
+
+1.     Function without Parameters:
+
+2.      Function with Parameter:
+
+3.      Function with Default Parameter:
+
+4.      Function with Return Keyword:
+
+5.      Recursion:
+
+6.  Using max() and min() functions display the maximum and minimum of 5 random
+
+numbers.
+
+7. Accept a name from the user and display that in lower case using lower() function.
+
