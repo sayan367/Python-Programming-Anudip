@@ -1,0 +1,18 @@
+1.     Print the table of 5 using for loop
+
+2.     Print even number series by taking input from the user:
+
+3.     Create a list and iterate through its items using a for loop:
+4.     Calculate the sum of numbers from 1 to 10 
+
+5.  Print the first 10 natural numbers using for loop
+
+6. Python program to check if the given string is a palindrome
+
+7. Python program to check if a given number is an Armstrong number
+
+8. Python program to get the Fibonacci series between 0 to 50
+
+9. Python program to check the validity of password input by user
+
+
